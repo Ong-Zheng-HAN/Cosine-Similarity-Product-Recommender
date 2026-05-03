@@ -1,5 +1,7 @@
 # Cosine Similarity Product Recommender
 
+**[Live Demo](https://019deee0-7ef0-7bfc-3d31-95c975a88d1c.share.connect.posit.cloud/)**
+
 A user-based collaborative filtering recommender built with R Shiny. It uses cosine similarity to identify users with similar purchase patterns and recommends products that similar users own but the target user hasn't purchased yet.
 
 ## How It Works

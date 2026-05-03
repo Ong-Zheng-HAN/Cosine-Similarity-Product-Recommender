@@ -1,0 +1,151 @@
+user,product,value
+Alice,Netflix,1
+Alice,Spotify,1
+Alice,Disney Plus,1
+Alice,YouTube Premium,1
+Alice,Kindle Unlimited,1
+Alice,Adobe Creative Cloud,1
+Alice,Microsoft 365,1
+Alice,Dropbox Plus,0
+Alice,ChatGPT Plus,1
+Alice,Nintendo Switch Online,0
+Alice,PlayStation Plus,0
+Alice,Xbox Game Pass,0
+Alice,Audible,1
+Alice,Notion Pro,0
+Alice,Figma Pro,0
+Bob,Netflix,1
+Bob,Spotify,1
+Bob,Disney Plus,1
+Bob,YouTube Premium,0
+Bob,Kindle Unlimited,1
+Bob,Adobe Creative Cloud,0
+Bob,Microsoft 365,0
+Bob,Dropbox Plus,0
+Bob,ChatGPT Plus,0
+Bob,Nintendo Switch Online,0
+Bob,PlayStation Plus,0
+Bob,Xbox Game Pass,0
+Bob,Audible,1
+Bob,Notion Pro,0
+Bob,Figma Pro,0
+Charlie,Netflix,1
+Charlie,Spotify,0
+Charlie,Disney Plus,0
+Charlie,YouTube Premium,1
+Charlie,Kindle Unlimited,0
+Charlie,Adobe Creative Cloud,1
+Charlie,Microsoft 365,1
+Charlie,Dropbox Plus,1
+Charlie,ChatGPT Plus,1
+Charlie,Nintendo Switch Online,0
+Charlie,PlayStation Plus,0
+Charlie,Xbox Game Pass,0
+Charlie,Audible,0
+Charlie,Notion Pro,1
+Charlie,Figma Pro,1
+Diana,Netflix,1
+Diana,Spotify,0
+Diana,Disney Plus,0
+Diana,YouTube Premium,1
+Diana,Kindle Unlimited,0
+Diana,Adobe Creative Cloud,1
+Diana,Microsoft 365,1
+Diana,Dropbox Plus,0
+Diana,ChatGPT Plus,1
+Diana,Nintendo Switch Online,0
+Diana,PlayStation Plus,0
+Diana,Xbox Game Pass,0
+Diana,Audible,0
+Diana,Notion Pro,1
+Diana,Figma Pro,0
+Eve,Netflix,1
+Eve,Spotify,1
+Eve,Disney Plus,1
+Eve,YouTube Premium,1
+Eve,Kindle Unlimited,0
+Eve,Adobe Creative Cloud,0
+Eve,Microsoft 365,0
+Eve,Dropbox Plus,0
+Eve,ChatGPT Plus,1
+Eve,Nintendo Switch Online,1
+Eve,PlayStation Plus,1
+Eve,Xbox Game Pass,1
+Eve,Audible,0
+Eve,Notion Pro,0
+Eve,Figma Pro,0
+Frank,Netflix,1
+Frank,Spotify,1
+Frank,Disney Plus,0
+Frank,YouTube Premium,1
+Frank,Kindle Unlimited,0
+Frank,Adobe Creative Cloud,0
+Frank,Microsoft 365,0
+Frank,Dropbox Plus,0
+Frank,ChatGPT Plus,0
+Frank,Nintendo Switch Online,1
+Frank,PlayStation Plus,1
+Frank,Xbox Game Pass,1
+Frank,Audible,0
+Frank,Notion Pro,0
+Frank,Figma Pro,0
+Grace,Netflix,0
+Grace,Spotify,0
+Grace,Disney Plus,0
+Grace,YouTube Premium,1
+Grace,Kindle Unlimited,0
+Grace,Adobe Creative Cloud,1
+Grace,Microsoft 365,1
+Grace,Dropbox Plus,1
+Grace,ChatGPT Plus,1
+Grace,Nintendo Switch Online,0
+Grace,PlayStation Plus,0
+Grace,Xbox Game Pass,0
+Grace,Audible,0
+Grace,Notion Pro,1
+Grace,Figma Pro,1
+Hank,Netflix,1
+Hank,Spotify,1
+Hank,Disney Plus,1
+Hank,YouTube Premium,0
+Hank,Kindle Unlimited,1
+Hank,Adobe Creative Cloud,0
+Hank,Microsoft 365,1
+Hank,Dropbox Plus,0
+Hank,ChatGPT Plus,1
+Hank,Nintendo Switch Online,0
+Hank,PlayStation Plus,0
+Hank,Xbox Game Pass,0
+Hank,Audible,1
+Hank,Notion Pro,0
+Hank,Figma Pro,0
+Irene,Netflix,1
+Irene,Spotify,1
+Irene,Disney Plus,1
+Irene,YouTube Premium,1
+Irene,Kindle Unlimited,1
+Irene,Adobe Creative Cloud,0
+Irene,Microsoft 365,0
+Irene,Dropbox Plus,0
+Irene,ChatGPT Plus,1
+Irene,Nintendo Switch Online,1
+Irene,PlayStation Plus,0
+Irene,Xbox Game Pass,0
+Irene,Audible,1
+Irene,Notion Pro,0
+Irene,Figma Pro,0
+Jake,Netflix,1
+Jake,Spotify,0
+Jake,Disney Plus,0
+Jake,YouTube Premium,1
+Jake,Kindle Unlimited,0
+Jake,Adobe Creative Cloud,1
+Jake,Microsoft 365,1
+Jake,Dropbox Plus,1
+Jake,ChatGPT Plus,1
+Jake,Nintendo Switch Online,0
+Jake,PlayStation Plus,1
+Jake,Xbox Game Pass,0
+Jake,Audible,0
+Jake,Notion Pro,1
+Jake,Figma Pro,1

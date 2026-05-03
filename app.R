@@ -5,8 +5,6 @@ library(plotly)
 library(DT)
 library(tidyverse)
 
-# setwd("~/claude_workspace/cosine_similarity_recommender")
-
 # ---- Helper functions ----
 
 # Build user-product matrix from long-format data (user, product, value)

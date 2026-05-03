@@ -21,23 +21,11 @@ build_user_product_matrix <- function(df) {
 }
 
 # Cosine similarity between row vectors
-# cosine_similarity <- function(mat) {
-#   if (nrow(mat) < 2) {
-#     return(matrix(1, nrow = nrow(mat), ncol = nrow(mat),
-#                   dimnames = list(rownames(mat), rownames(mat))))
-#   }
-#   sim <- 1 - as.matrix(proxy::dist(mat, method = "cosine"))
-#   sim[is.nan(sim)] <- 0
-#   sim
-# }
-
-# cosine_similarity <-function(mat) {
-#   simil(mat,
-#         method = "cosine") %>%
-#     as.matrix()
-# }
-
-cosine_similarity <- 1 +2
+cosine_similarity <-function(mat) {
+  simil(mat,
+        method = "cosine") %>%
+    as.matrix()
+}
 
 # Generate recommendations for a target user
 recommend_products <- function(up_mat, sim_mat, target_user, top_n_users = 5) {
